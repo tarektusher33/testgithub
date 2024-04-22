@@ -1,2 +1,0 @@
-test file 2 was created.
-changed file something.
